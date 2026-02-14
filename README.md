@@ -1,2 +1,22 @@
 # UTS-RUTAS-APP-E196-GRIS
-Aplicación móvil Android desarrollada en Java para consultar rutas de buses y publicar anuncios de transporte para estudiantes de las Unidades Tecnológicas de Santander. Usa MongoDB y metodología de prototipado (planeación, modelado y pruebas), mejorando la gestión y accesibilidad del transporte en el área metropolitana.
+# 📱 App de Transporte UTS
+Aplicación móvil Android desarrollada en Java para consultar rutas de buses y publicar anuncios de transporte dirigidos a estudiantes de las Unidades Tecnológicas de Santander. Utiliza MongoDB para la gestión de datos y fue desarrollada bajo metodología de prototipado.
+
+## 🎯 Objetivo
+Mejorar la accesibilidad y optimizar la movilidad estudiantil en el área metropolitana mediante una solución tecnológica eficiente y fácil de usar.
+
+## 🛠️ Tecnologías Utilizadas
+- Java
+- Android Studio
+- Spring Tool Suite
+- MongoDB
+
+## 👥 Integrantes
+
+- Laurent Melissa Suarez Contreras
+- Yeiler Sneider Mendez Guevara
+- Lady Vanessa Jaimes Rueda
+
+## 🎨 Color Representativo del Proyecto
+
+**Gris** 
